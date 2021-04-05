@@ -15,4 +15,4 @@ async def on_member_join(member):
     await member.create_dm()
     await member.dm_channel.send(
         f'Hi {member.name}, welcome to my Discord server!')
-bot.run('ODI4NDYwMjc1MTYxMjM1NDU2.YGp5wQ.f-XwKQ-NKQNRM2OVQu1PnJ_VD7U')
+bot.run('Place Your Token Here') #I have remove it 
